@@ -1,0 +1,8 @@
+displayName: "Moondustry"
+name: "moondustry"
+author: "MainDay"
+main: "moondustry.Moondustry"
+description: "An interesting mod that adds a lot of new materials and diversifies the standard game\n\n[#808080]Translations :[#FFFFFF]\nРусский\nEnglish"
+version: 1.0.0
+minGameVersion: 121
+java: true
