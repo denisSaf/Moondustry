@@ -8,3 +8,5 @@ To install unreleased versions, go to the [Actions](https://github.com/iMainDay/
 
 # Contribution
 If you have any ideas on the development of our modification, then please contact the [Questions](https://github.com/iMainDay/Moondustry/issues) tab, we will be happy to consider your every wish.
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
