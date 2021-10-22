@@ -14,7 +14,8 @@ import moondustry.content.*;
 public class Moondustry extends Mod {
     private final ContentList[] contents = {
         new MoonItems(),
-        new MoonTree()
+        new MoonTree(),
+        new MoonBlocks()
     };
 
     @Override
